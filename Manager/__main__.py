@@ -27,6 +27,7 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 My owner is [LEO](t.me/SCarder777)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
+
 Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
 

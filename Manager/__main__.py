@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [LEO](t.me/SCarder777)
+My owner is [JIN](t.me/Nightcore5)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 

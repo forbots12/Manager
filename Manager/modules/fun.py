@@ -65,7 +65,7 @@ def slap(bot: Bot, update: Update, args: List[str]):
 
 @run_async
 def roll(bot: Bot, update: Update):
-    update.message.reply_text(random.choice(range(1, 7)))
+    update.message.reply_text(":dice")
 
 
 @run_async
